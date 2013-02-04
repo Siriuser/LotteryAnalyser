@@ -24,6 +24,7 @@ namespace LotteryTools.UI
         private bool _selected = false;
         private string _text = "";
 
+
         [DefaultValue(false)]
         [Browsable(true)]
         public bool Selected 
